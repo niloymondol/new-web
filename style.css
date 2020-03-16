@@ -1,0 +1,92 @@
+    body{
+        font-family: 'PT Serif', serif;
+        margin: 0%;
+    }
+    .half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding: 2%;
+    }
+    .half-width img{
+    width: 100%;
+    }
+    .top-banner{
+        background-image: url(top-banner.png);
+        background-repeat: no-repeat;
+        
+        
+    }
+    section{
+        height: 500px;
+    }
+    .button{
+    text-decoration: none;
+    background-color: orange;
+    padding: 5.50px 13px;
+    color:white;
+    font-weight: 700;
+    background-image: linear-gradient(yellow
+    orange);
+    }
+    .dream{
+        background-image: url(dream-bg.png);
+        background-repeat: no-repeat;
+        background-position: right;
+    
+        
+        
+    }
+    #name{
+        color: tomato;
+    }
+    #ppp{
+        text-align: center;
+    }
+    #second-pic{
+    width: 80%;
+    height: 400px;
+    }
+    p{
+        color: dimgray;
+    }
+
+    .experience{
+    background-image: url(exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    }
+    #seo{
+        border-left: midnightblue 7px solid;
+        border-right: solid cornflowerblue 7px;
+    
+    }
+    #web{
+    border-left: mediumorchid 7px solid;
+    border-right: mediumpurple 7px solid;
+    background-color: white;
+    }
+    .kkl{
+        color: indigo;
+    }
+    .half{
+    padding: 2%;
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding: 2%;
+    box-shadow: 10px 10px 40px gray;  
+    border-radius: 10px;
+    height: 65%;
+    }
+
+
+
+
+
+
+
+
+
+
+
