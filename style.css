@@ -1,92 +1,85 @@
-    body{
-        font-family: 'PT Serif', serif;
-        margin: 0%;
-    }
-    .half-width{
+.name{
+    color: salmon;
+}
+.info{
+     margin-left: 5%;
     width: 40%;
-    float: left;
-    margin-left: 5%;
     padding: 2%;
-    }
-    .half-width img{
+    float: left;
+
+}
+
+.sec-img{
+    height: 650px;
+    width: 75%;
+}
+.info-sec{
+background-image: url(https://www.publicdomainpictures.net/pictures/250000/velka/clean-blue-background.jpg);
+background-repeat: no-repeat;
+}
+
+body{
+    font-family: 'Baloo Thambi 2', cursive;
+}
+.info img{
     width: 100%;
-    }
-    .top-banner{
-        background-image: url(top-banner.png);
-        background-repeat: no-repeat;
-        
-        
-    }
-    section{
-        height: 500px;
-    }
-    .button{
-    text-decoration: none;
-    background-color: orange;
-    padding: 5.50px 13px;
-    color:white;
-    font-weight: 700;
-    background-image: linear-gradient(yellow
-    orange);
-    }
-    .dream{
-        background-image: url(dream-bg.png);
-        background-repeat: no-repeat;
-        background-position: right;
     
-        
-        
-    }
-    #name{
-        color: tomato;
-    }
-    #ppp{
-        text-align: center;
-    }
-    #second-pic{
+}
+p{
+  color: rgb(42, 199, 21);
+}
+section{
+    height: 700px;
+}
+.info-first{
+    background-image: url(https://www.joomspirit.com/template-joomla/template-107/images/background/light-blue-NR.jpg);
+   width: 100%;
+   margin: 0%;
+}
+.op{
+    color: dimgray;
+}
+.ba{
+    background-color: mediumorchid;
+    color: white;
     width: 80%;
-    height: 400px;
-    }
-    p{
-        color: dimgray;
-    }
-
-    .experience{
-    background-image: url(exp-bg.png);
-    background-repeat: no-repeat;
-    background-position: left;
-    }
-    #seo{
-        border-left: midnightblue 7px solid;
-        border-right: solid cornflowerblue 7px;
+    margin: 10% 10%;
+    height: 100px;
+    border-radius: 40px;
+    padding: 1% 2%;
+    text-align: center;
+}
+.info-third{
+    border: white dotted;
+ text-align: center;
+   }
+.kok{
+    color: darkslategray;
+    text-align: center;
+}
+.ii{
+    color: purple;
     
-    }
-    #web{
-    border-left: mediumorchid 7px solid;
-    border-right: mediumpurple 7px solid;
-    background-color: white;
-    }
-    .kkl{
-        color: indigo;
-    }
-    .half{
-    padding: 2%;
-    width: 40%;
-    float: left;
-    margin-left: 5%;
-    padding: 2%;
-    box-shadow: 10px 10px 40px gray;  
-    border-radius: 10px;
-    height: 65%;
-    }
-
-
-
-
-
-
-
-
-
-
-
+}
+.ok{
+    width: 30%;
+    height: 250px;
+    margin: 1% 2% 1% 1%;
+}
+#id{
+    text-align: center;
+ 
+}
+.jkkk{
+    color: dimgrey;
+}
+.button{
+    
+    text-decoration: none;
+    background-color: rgb(9, 204, 211);
+    padding: 5px 8px;
+    height: 10px;
+    color:white;
+    font-weight: 600;
+    background-image: linear-gradient(yellow
+}
